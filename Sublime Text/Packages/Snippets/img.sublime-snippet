@@ -1,0 +1,16 @@
+<snippet>
+<content><![CDATA[
+\\\
+{\color{black} \rule{\linewidth}{0.3mm}}
+\paragraph{${1:Titolo}}
+\\begin{center}
+includegraphics[width=0.75\textwidth]{${2:Immagine}}
+\\end{center}
+${3:Descrizione} \\\
+{\color{black} \rule{\linewidth}{0.3mm}}
+\\\
+]]></content>
+<tabTrigger>img</tabTrigger>
+<description>Crea automaticamente un blocco immagine</description>
+<scope>text.tex.latex</scope>
+</snippet>

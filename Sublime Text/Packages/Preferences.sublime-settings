@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"font_size": 12,
+	"gn_hide_tab_dropdown": true,
+	"gn_overlay_scroll_bars": true,
+	"gn_sb_cnvx": true,
+	"gn_sidebar_box": true,
+	"gnc_h16": true,
+	"gnc_m07": true,
+	"gnc_w3m13": true,
+	"gnwidg1": true,
+	"ignored_packages":
+	[
+		"LaTeX Snippets",
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"theme": "Guna.sublime-theme",
+	"word_wrap": "false",
+	"wrap_width": 80
+}

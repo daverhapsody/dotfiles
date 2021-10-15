@@ -1,0 +1,37 @@
+<snippet>
+<content><![CDATA[
+\documentclass[12pt, a4paper, openany, twoside]{book}
+\usepackage[italian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath} 
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\graphicspath{{./img/}}
+\usepackage{tikz}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+%usepackage[latin1]{inputenc}
+\begin{document}
+\fontfamily{cmss}\selectfont
+\pagestyle{plain}
+\author{DaveRhapsody}
+\title ${1:Titolo}
+\date ${2:Data}
+\maketitle
+\tableofcontents
+\chapter{Capitolo 1}${3:Inizio ->}
+\section{Sezione 1 capitolo 1}
+\subsection{SottoSezione 1 Sezione 1 Capitolo 1}
+\end{document}
+]]></content>
+<tabTrigger>basedoc</tabTrigger>
+<description>Crea una base del documento da creare</description>
+<scope>text.tex.latex, meta.environment.math.inline.dollar.latex, punctuation.definition.group.brace.end.latex</scope>
+</snippet>
