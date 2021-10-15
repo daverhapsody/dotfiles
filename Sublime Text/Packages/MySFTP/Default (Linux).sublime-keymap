@@ -1,0 +1,9 @@
+[
+
+	{ "keys": ["ctrl+shift+n","ctrl+shift+s"], "command": "new_server" },
+	{ "keys": ["ctrl+shift+l","ctrl+shift+s"], "command": "my_sftp" },
+	
+	{ "keys": ["ctrl+shift+e","ctrl+shift+s"], "command": "server_manager", "args" : { "action" : "edit"} },
+	{ "keys": ["ctrl+shift+r","ctrl+shift+s"], "command": "server_manager", "args" : { "action" : "remove"} },
+
+]

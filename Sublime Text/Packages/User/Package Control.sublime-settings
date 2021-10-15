@@ -1,19 +1,14 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"DeleteBlankLines",
+		"A File Icon",
 		"Guna",
-		"Java Velocity",
-		"LaTeX Blindtext",
-		"LaTeX Snippets",
-		"Package Control",
-		"Path Tools",
-		"Prolog",
-		"SFTP",
+		"MySFTP",
 		"SnippetMaker",
-		"Terminus"
+		"Terminus",
 	],
 }

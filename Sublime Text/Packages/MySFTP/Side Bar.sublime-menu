@@ -1,0 +1,14 @@
+[
+	{ "caption": "-" },
+	{
+		"caption": "MySFTP",
+		"children":
+		[
+			{ "caption": "Nuevo servidor", "command": "new_server", "args": {"paths": []} },
+			{ "caption": "Listar servidor", "command": "my_sftp", "args": {"paths": []} },
+			{ "caption": "Editar servidor", "command": "server_manager", "args": {"paths": []} },
+			{ "caption": "Borrar servidor", "command": "server_manager", "args": {"paths": []} },
+			{ "caption": "Upload File", "command": "side_bar", "args": {"paths": []} },
+		]
+	}
+]
