@@ -2,4 +2,18 @@
 	"in_process_packages":
 	[
 	],
+	"installed_packages":
+	[
+		"DeleteBlankLines",
+		"Guna",
+		"Java Velocity",
+		"LaTeX Blindtext",
+		"LaTeX Snippets",
+		"Package Control",
+		"Path Tools",
+		"Prolog",
+		"SFTP",
+		"SnippetMaker",
+		"Terminus"
+	],
 }

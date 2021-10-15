@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"ignored_packages":
 	[
 		"LaTeX Snippets",
@@ -15,9 +15,33 @@
 	/*"gnc_001": false,*/
 	/*"gnc_002": false,*/
 	"gnwidgo": true,
-	"gnc_h03": true,
+	/*"gnc_h03": true,*/
 	/*"gnc_m09": true,*/
 	/*"gnc_w4m10": true,*/
-	"gnc_m00": true,
+	/*"gnc_m00": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w4m11": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w4m11": true,*/
+	"gnc_h03": true,
+	"gnc_m01": true,
 	"gnc_w4m11": true,
 }
