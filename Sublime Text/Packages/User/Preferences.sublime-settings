@@ -1,0 +1,23 @@
+{
+	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"LaTeX Snippets",
+		"Vintage",
+	],
+	/*"gnc_001": false,*/
+	/*"gnc_002": true,*/
+	"theme": "Guna.sublime-theme",
+	/*"gnc_m09": true,*/
+	/*"gnc_h03": true,*/
+	/*"gnc_w4m10": true,*/
+	"gn_title_bar": true,
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	"gnwidgo": true,
+	"gnc_h03": true,
+	/*"gnc_m09": true,*/
+	/*"gnc_w4m10": true,*/
+	"gnc_m00": true,
+	"gnc_w4m11": true,
+}
