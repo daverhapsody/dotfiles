@@ -100,7 +100,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias sensors='sensors | grep 'Core''
+# alias sensors='sensors | grep 'Core''
 alias perf='sudo cpupower frequency-set -g performance'
 alias saving='sudo cpupower frequency-set -g powersave'
 alias userspace='sudo cpupower frequency-set -g userspace'
